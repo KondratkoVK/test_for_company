@@ -126,7 +126,7 @@ h1 {
   top: 0.2rem;
   width: 2rem;
   height: 2rem;
-  background-image: url("/img/ico/yes.svg");
+  background-image: url("img/ico/yes.svg");
   background-size: contain;
   background-repeat: no-repeat;
 }
